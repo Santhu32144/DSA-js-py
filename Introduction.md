@@ -11,4 +11,4 @@ i/p ---> algorithm ---> o/p
 
 Complexity Analysis, Big O(Big o notation)
 1. what is the need for complexity Analysis?
---> ![alt text](<WhatsApp Image 2025-06-19 at 22.23.11_3cb3c85e.jpg>)
+![alt text](<WhatsApp Image 2025-06-19 at 22.23.11_3cb3c85e.jpg>)
